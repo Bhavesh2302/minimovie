@@ -1,0 +1,41 @@
+
+
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+#add-money{
+    margin: auto;
+    width:30%;
+    height:250px;
+  /* border:1px solid red; */
+ 
+
+  }
+
+  #anchor{
+      text-decoration: none;
+  }
+
+  #amount{
+      display: block;
+    
+      text-align: center;
+      margin: auto;
+      margin-top:20px;
+  }
+
+  #add_to_wallet{
+      display: block;
+     
+      margin: auto;
+      margin-top:20px;
+  }
+
+  #book_movies{
+    display: block;
+ 
+    margin: auto;
+    margin-top:20px;
+  }

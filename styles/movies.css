@@ -1,0 +1,28 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#movies{
+    
+margin:auto;
+margin-top:30px;
+display: grid;
+grid-template-columns: repeat(4,1fr);
+grid-template-rows: auto;
+gap:3%;
+}
+
+#movies img{
+    height: 200px;
+    width:100%;
+}
+#search{
+    display: block;
+    margin: auto;
+    width:30%;
+    height:20px;
+   border:.8px solid grey;
+   
+}

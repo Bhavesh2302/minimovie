@@ -1,0 +1,14 @@
+#movie{
+  
+    margin:auto;
+}
+
+
+#user-detail{
+    margin: auto;
+}
+
+
+ #movie>div>p{
+    font-weight: bold;
+} 
