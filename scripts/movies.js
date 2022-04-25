@@ -30,7 +30,7 @@ let s=document.querySelector("#search").value
 // console.log(s)
 
 
-const res= await fetch(` http://www.omdbapi.com/?s=${s}&apikey=cc4c735b`)
+const res= await fetch(` https://www.omdbapi.com/?s=${s}&apikey=cc4c735b`)
 
 
 
